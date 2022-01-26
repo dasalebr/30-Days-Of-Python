@@ -1,4 +1,6 @@
+<div align="center">
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/33eb3510-4a66-4aa0-adc1-a751d86bd85b.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/30-days-of-python?orgId=288883884012)  
 <div align="center">
 
   <h1> 30 Days Of Python: Day 1 - Introduction</h1>
